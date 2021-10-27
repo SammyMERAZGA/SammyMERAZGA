@@ -4,7 +4,7 @@ I am a 3rd year student pursuing an engineering degree at G4 institute :classica
 
 I am a passionate learner who is always ready to learn and work through technologies :bulb:. I love exploring new technologies and using them to solve real-world problems :sparkles:. I'm deep into Web :spider_web: Development.
 
-![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SammyMERAZGA/SammyMERAZGA/blob/output/github-contribution-grid-snake.svg)
 
 ### Languages & Tools 🛠
 
@@ -47,4 +47,11 @@ I am a passionate learner who is always ready to learn and work through technolo
 ### :trophy: Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SammyMERAZGA&theme=dracula)](https://github.com/SammyMERAZGA/github-profile-trophy)
+
+### Let's connect ? 🤝
+
+<p align="left">
+<a href="https://fr.linkedin.com/in/sammy-merazga"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sammy.merazga@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
