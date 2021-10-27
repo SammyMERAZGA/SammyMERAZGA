@@ -7,3 +7,6 @@ I am a passionate learner who is always ready to learn and work through technolo
 ### My Github Stats
 
 ![Sammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammyMERAZGA&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammyMERAZGA&layout=compact&theme=dracula)](https://github.com/SammyMERAZGA/github-readme-stats)
+
