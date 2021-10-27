@@ -10,9 +10,5 @@ I am a passionate learner who is always ready to learn and work through technolo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammyMERAZGA&layout=compact&theme=dracula)](https://github.com/SammyMERAZGA/github-readme-stats)
 
-<a href="https://github.com/SammyMERAZGA/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SammyMERAZGA&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/SammyMERAZGA/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammyMERAZGA&layout=compact&theme=dracula)](https://github.com/SammyMERAZGA/github-readme-stats" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SammyMERAZGA&theme=dracula)](https://github.com/SammyMERAZGA/github-profile-trophy)
+
