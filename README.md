@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Sammy MERAZGA
 
-I am a 3rd year student pursuing an engineering degree at G4 institute :classical_building: that leads to an IT project manager title :mortar_board:. I am pursuing my study in alternation.
+I'm a 3rd year student pursuing an engineering degree at G4 institute :classical_building: that leads to an IT project manager title :mortar_board:. I am pursuing my study in alternation with Tempo One :city_sunset:.
 
-I am a passionate learner who is always ready to learn and work through technologies :bulb:. I love exploring new technologies and using them to solve real-world problems :sparkles:. I'm deep into Web :spider_web: Development.
+I'm a passionate learner who's always ready to learn and work through technologies :bulb:. I love exploring new technologies and using them to solve real-world problems :sparkles:. I'm deep into Web :spider_web: Development.
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
