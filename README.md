@@ -31,6 +31,8 @@ I'm a passionate learner who's always ready to learn and work through technologi
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/-sqlite-05122A?style=flat&logo=sqlite)&nbsp;
+![Prisma](https://img.shields.io/badge/-prisma-05122A?style=flat&logo=prisma)&nbsp;
+
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MAMP](https://img.shields.io/badge/-MAMP-05122A?style=flat&logo=MAMP)&nbsp;
