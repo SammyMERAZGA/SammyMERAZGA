@@ -18,8 +18,9 @@ I'm a passionate learner who's always ready to learn and work through technologi
 ![NodeJS](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
 ![Symfony](https://img.shields.io/badge/-symfony-05122A?style=flat&logo=symfony)&nbsp;
+![VueJS](https://img.shields.io/badge/-vuejs-05122A?style=flat&logo=vue.js)&nbsp;
+![Vuetify](https://img.shields.io/badge/-vuetify-05122A?style=flat&logo=vuetify)&nbsp;
 ![React](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)&nbsp;
-![MUI](https://img.shields.io/badge/-materialui-05122A?style=flat&logo=materialui)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![Quarkus](https://img.shields.io/badge/-quarkus-05122A?style=flat&logo=quarkus)&nbsp;
 
@@ -32,12 +33,13 @@ I'm a passionate learner who's always ready to learn and work through technologi
 ![Prisma](https://img.shields.io/badge/-prisma-05122A?style=flat&logo=prisma)&nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MAMP](https://img.shields.io/badge/-MAMP-05122A?style=flat&logo=MAMP)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![DataGrip](https://img.shields.io/badge/-datagrip-05122A?style=flat&logo=datagrip)&nbsp;
 ![Sublime](https://img.shields.io/badge/-sublimetext-05122A?style=flat&logo=sublimetext)&nbsp;
+![MAMP](https://img.shields.io/badge/-MAMP-05122A?style=flat&logo=MAMP)&nbsp;
 ![Yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 
 ### :signal_strength: My Github Stats
