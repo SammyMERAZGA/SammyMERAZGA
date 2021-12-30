@@ -13,7 +13,6 @@ I'm a passionate learner who's always ready to learn and work through technologi
 ![HTML](https://img.shields.io/badge/-html5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-css3-05122A?style=flat&logo=css3)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 
 ![NodeJS](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
@@ -22,14 +21,12 @@ I'm a passionate learner who's always ready to learn and work through technologi
 ![Vuetify](https://img.shields.io/badge/-vuetify-05122A?style=flat&logo=vuetify)&nbsp;
 ![React](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![Quarkus](https://img.shields.io/badge/-quarkus-05122A?style=flat&logo=quarkus)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/-sqlite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Prisma](https://img.shields.io/badge/-prisma-05122A?style=flat&logo=prisma)&nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -41,6 +38,12 @@ I'm a passionate learner who's always ready to learn and work through technologi
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
+
+### Other Languages (bases) 🛠
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
+![Quarkus](https://img.shields.io/badge/-quarkus-05122A?style=flat&logo=quarkus)&nbsp;
+![SQLite](https://img.shields.io/badge/-sqlite-05122A?style=flat&logo=sqlite)&nbsp;
 
 ### :signal_strength: My Github Stats
 
