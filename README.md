@@ -29,6 +29,7 @@ I'm a passionate learner who's always ready to learn and work through technologi
 ![DataGrip](https://img.shields.io/badge/-datagrip-05122A?style=flat&logo=datagrip)&nbsp;
 ![MAMP](https://img.shields.io/badge/-MAMP-05122A?style=flat&logo=MAMP)&nbsp;
 ![Yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn)&nbsp;
+
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 
 ### Other Languages & Tools 🛠
@@ -45,7 +46,6 @@ I'm a passionate learner who's always ready to learn and work through technologi
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
-
 ![Sublime](https://img.shields.io/badge/-sublimetext-05122A?style=flat&logo=sublimetext)&nbsp;
 
 ### :signal_strength: My Github Stats
