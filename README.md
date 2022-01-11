@@ -14,11 +14,11 @@ I'm a passionate learner who's always ready to learn and work through technologi
 ![CSS](https://img.shields.io/badge/-css3-05122A?style=flat&logo=css3)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
 
+![VueJS](https://img.shields.io/badge/-vuejs-05122A?style=flat&logo=vue.js)&nbsp;
+![Vuetify](https://img.shields.io/badge/-vuetify-05122A?style=flat&logo=vuetify)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
 ![Symfony](https://img.shields.io/badge/-symfony-05122A?style=flat&logo=symfony)&nbsp;
-![VueJS](https://img.shields.io/badge/-vuejs-05122A?style=flat&logo=vue.js)&nbsp;
-![Vuetify](https://img.shields.io/badge/-vuetify-05122A?style=flat&logo=vuetify)&nbsp;
 ![React](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 
