@@ -9,7 +9,6 @@ I'm a passionate learner who's always ready to learn and work through technologi
 ### Languages & Tools 🛠
 
 ![TypeScript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-html5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-css3-05122A?style=flat&logo=css3)&nbsp;
 
@@ -34,14 +33,17 @@ I'm a passionate learner who's always ready to learn and work through technologi
 
 ### Other Languages & Tools 🛠
 
+![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
 ![Symfony](https://img.shields.io/badge/-symfony-05122A?style=flat&logo=symfony)&nbsp;
 ![React](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)&nbsp;
+![MUI](https://img.shields.io/badge/-mui-05122A?style=flat&logo=mui)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![Quarkus](https://img.shields.io/badge/-quarkus-05122A?style=flat&logo=quarkus)&nbsp;
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 ![SQLite](https://img.shields.io/badge/-sqlite-05122A?style=flat&logo=sqlite)&nbsp;
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
