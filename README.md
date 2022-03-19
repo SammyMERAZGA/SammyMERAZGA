@@ -1,5 +1,7 @@
 ### <div align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sammy MERAZGA </div> <br/>
 
+<div align="center">
+  
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 <p align="center">I'm a 3rd year student pursuing an engineering degree at G4 institute :classical_building: that leads to an IT project manager title :mortar_board:. I am pursuing my study in alternation with Tempo One :city_sunset:.</p>
@@ -18,9 +20,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 </div>
+</div>
+
+<div align="center">
 
 ## 🛠 Languages & Tools 
 
+</div>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/78353572/159122594-ec57b8cf-d7b0-4fcb-92c7-fec40c50a7c4.gif" width="500" height="350" />
 
