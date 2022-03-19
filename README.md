@@ -78,12 +78,12 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)&nbsp;
 ![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-000?&logo=phpmyadmin)&nbsp;
-![MongoDB](hhttps://img.shields.io/badge/-MongoDB-000?&logo=mongodb)&nbsp;
-![SQLite](hhttps://img.shields.io/badge/-SQLite-000?&logo=sqlite)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)&nbsp;
 
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)&nbsp;
-![Linux](hhttps://img.shields.io/badge/-Linux-000?&logo=linux)&nbsp;
-![Ubuntu](hhttps://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)&nbsp;
 
 <div align="center">
 
