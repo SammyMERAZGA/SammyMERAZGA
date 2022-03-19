@@ -22,27 +22,27 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/78353572/159122594-ec57b8cf-d7b0-4fcb-92c7-fec40c50a7c4.gif" width="500" height="350" />
 
-![TypeScript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
-![HTML](https://img.shields.io/badge/-html5-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-css3-05122A?style=flat&logo=css3)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-Code-informational?style=flat&logo=typescript&logoColor=blue&color=blue)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-Code-informational?style=flat&logo=html5&logoColor=white&color=blue)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-Code-informational?style=flat&logo=css3&logoColor=white&color=blue)&nbsp;
 
-![VueJS](https://img.shields.io/badge/-vuejs-05122A?style=flat&logo=vue.js)&nbsp;
-![Vuetify](https://img.shields.io/badge/-vuetify-05122A?style=flat&logo=vuetify)&nbsp;
-![NodeJS](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
+![VueJS](https://img.shields.io/badge/VueJS-Framework%20Front-informational?style=flat&logo=vue.js&logoColor=green&color=green)&nbsp;
+![Vuetify](https://img.shields.io/badge/Vuetify-Framework%20UI-informational?style=flat&logo=vuetify&logoColor=white&color=green)&nbsp;
+![NodeJS](https://img.shields.io/badge/NodeJS-JS%20Runtime-informational?style=flat&logo=node.js&logoColor=white&color=green)&nbsp;
+![Express](https://img.shields.io/badge/Express-Framework%20Back-informational?style=flat&logo=express&logoColor=white&color=green)&nbsp;
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SGBD-informational?style=flat&logo=postgresql&logoColor=white&color=orange)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-ORM-informational?style=flat&logo=prisma&logoColor=white&color=orange)&nbsp;
+![DataGrip](https://img.shields.io/badge/DataGrip-SGBD-informational?style=flat&logo=DataGrip&logoColor=white&color=orange)&nbsp;
+
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-IDE-informational?style=flat&logo=visualstudiocode&logoColor=blue&color=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-API%20Platform-informational?style=flat&logo=postman&logoColor=orange&color=white)&nbsp;
+![Yarn](https://img.shields.io/badge/Yarn-PM-informational?style=flat&logo=yarn&logoColor=blue&color=white)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Prisma](https://img.shields.io/badge/-prisma-05122A?style=flat&logo=prisma)&nbsp;
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![DataGrip](https://img.shields.io/badge/-datagrip-05122A?style=flat&logo=datagrip)&nbsp;
-![Yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn)&nbsp;
-
-![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
+![MacOS](https://img.shields.io/badge/Mac-OS-informational?style=flat&logo=apple&logoColor=white&color=white)&nbsp;
 
 ### Other Languages & Tools 🛠
 
