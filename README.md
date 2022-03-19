@@ -6,6 +6,11 @@ I'm a passionate learner who's always ready to learn and work through technologi
 
 ![Snake animation](https://user-images.githubusercontent.com/78353572/159122397-16cb4796-aca5-4899-bb82-c43efe56659a.svg)
 
+### Favorites Technologies 🥰
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ### Languages & Tools 🛠
 
@@ -38,11 +43,13 @@ I'm a passionate learner who's always ready to learn and work through technologi
 ### Other Languages & Tools 🛠
 
 ![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
-![Symfony](https://img.shields.io/badge/-symfony-05122A?style=flat&logo=symfony)&nbsp;
 ![React](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)&nbsp;
 ![MUI](https://img.shields.io/badge/-mui-05122A?style=flat&logo=mui)&nbsp;
+
+![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
+![Symfony](https://img.shields.io/badge/-symfony-05122A?style=flat&logo=symfony)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![Quarkus](https://img.shields.io/badge/-quarkus-05122A?style=flat&logo=quarkus)&nbsp;
 
