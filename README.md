@@ -9,6 +9,9 @@ I'm a passionate learner who's always ready to learn and work through technologi
 
 ### Languages & Tools 🛠
 
+
+<img align="right" alt="GIF" src="(https://user-images.githubusercontent.com/78353572/159122555-576ed4fd-19a1-4fc1-b70a-a0bb8931066b.gif)" width="500" height="320" />
+
 ![TypeScript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-html5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-css3-05122A?style=flat&logo=css3)&nbsp;
