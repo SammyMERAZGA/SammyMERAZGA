@@ -1,4 +1,4 @@
-### Hi 👋, I'm Sammy MERAZGA
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sammy MERAZGA
 
 I'm a 3rd year student pursuing an engineering degree at G4 institute :classical_building: that leads to an IT project manager title :mortar_board:. I am pursuing my study in alternation with Tempo One :city_sunset:.
 
