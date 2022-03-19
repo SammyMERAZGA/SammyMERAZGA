@@ -1,7 +1,7 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sammy MERAZGA
+### <div align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sammy MERAZGA </div> <br/>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-<br/>
+
 <p align="center">I'm a 3rd year student pursuing an engineering degree at G4 institute :classical_building: that leads to an IT project manager title :mortar_board:. I am pursuing my study in alternation with Tempo One :city_sunset:.</p>
 
 <p align="center">I'm a passionate learner who's always ready to learn and work through technologies :bulb:. I love exploring new technologies and using them to solve real-world problems :sparkles:. I'm deep into Web :spider_web: Development.
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-### :signal_strength: My Github Stats
+## :signal_strength: My Github Stats
 <br />
 
 ![Sammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammyMERAZGA&show_icons=true&theme=dracula)
@@ -86,7 +86,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SammyMERAZGA&theme=dracula)](https://github.com/SammyMERAZGA/github-profile-trophy)
  
-### Let's connect ? 🤝
+## Let's connect ? 🤝
 <br />
 
 <a href="https://fr.linkedin.com/in/sammy-merazga"><img src="https://img.shields.io/badge/-sammyMERAZGA-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
