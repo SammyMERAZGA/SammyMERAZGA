@@ -30,18 +30,26 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/78353572/159122594-ec57b8cf-d7b0-4fcb-92c7-fec40c50a7c4.gif" width="500" height="350" />
 
+### Languages 
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)&nbsp;
+
+### Frameworks 
 
 ![VueJS](https://img.shields.io/badge/-VueJS-000?&logo=Vue.js)&nbsp;
 ![Vuetify](https://img.shields.io/badge/-Vuetify-000?&logo=Vuetify)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=Node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)&nbsp;
 
+### Database
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma)&nbsp;
 ![DataGrip](https://img.shields.io/badge/-DataGrip-000?&logo=datagrip)&nbsp;
+
+### Others
 
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)&nbsp;
