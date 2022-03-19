@@ -28,6 +28,7 @@
 
 </div>
 
+<br/><br/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/78353572/159122594-ec57b8cf-d7b0-4fcb-92c7-fec40c50a7c4.gif" width="500" height="350" />
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-Code-informational?style=flat&logo=typescript&logoColor=white&color=blue)&nbsp;
