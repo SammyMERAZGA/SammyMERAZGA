@@ -62,27 +62,28 @@
 
 ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=apple)&nbsp;
 
-### Other Languages & Tools 🛠
+### Other Languages & Tools (I can use but not my favorites)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)&nbsp;
-![React](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)&nbsp;
-![MUI](https://img.shields.io/badge/-mui-05122A?style=flat&logo=mui)&nbsp;
+![React](https://img.shields.io/badge/-React-000?&logo=React)&nbsp;
+![MUI](https://img.shields.io/badge/-MUI-000?&logo=mui)&nbsp;
 
-![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
-![MAMP](https://img.shields.io/badge/-MAMP-05122A?style=flat&logo=MAMP)&nbsp;
-![Symfony](https://img.shields.io/badge/-symfony-05122A?style=flat&logo=symfony)&nbsp;
-![Boostrap](https://img.shields.io/badge/-bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)&nbsp;
+![MAMP](https://img.shields.io/badge/-MAMP-000?&logo=MAMP)&nbsp;
+![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)&nbsp;
+![Boostrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)&nbsp;
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
-![Quarkus](https://img.shields.io/badge/-quarkus-05122A?style=flat&logo=quarkus)&nbsp;
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)&nbsp;
+![Quarkus](https://img.shields.io/badge/-Quarkus-000?&logo=quarkus)&nbsp;
 
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)&nbsp;
-![SQLite](https://img.shields.io/badge/-sqlite-05122A?style=flat&logo=sqlite)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)&nbsp;
+![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-000?&logo=phpmyadmin)&nbsp;
+![MongoDB](hhttps://img.shields.io/badge/-MongoDB-000?&logo=mongodb)&nbsp;
+![SQLite](hhttps://img.shields.io/badge/-SQLite-000?&logo=sqlite)&nbsp;
 
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
-![Sublime](https://img.shields.io/badge/-sublimetext-05122A?style=flat&logo=sublimetext)&nbsp;
+![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)&nbsp;
+![Linux](hhttps://img.shields.io/badge/-Linux-000?&logo=linux)&nbsp;
+![Ubuntu](hhttps://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)&nbsp;
 
 <div align="center">
 
