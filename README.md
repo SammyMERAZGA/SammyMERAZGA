@@ -40,7 +40,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![DataGrip](https://img.shields.io/badge/-datagrip-05122A?style=flat&logo=datagrip)&nbsp;
-![MAMP](https://img.shields.io/badge/-MAMP-05122A?style=flat&logo=MAMP)&nbsp;
 ![Yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn)&nbsp;
 
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
@@ -52,6 +51,7 @@
 ![MUI](https://img.shields.io/badge/-mui-05122A?style=flat&logo=mui)&nbsp;
 
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
+![MAMP](https://img.shields.io/badge/-MAMP-05122A?style=flat&logo=MAMP)&nbsp;
 ![Symfony](https://img.shields.io/badge/-symfony-05122A?style=flat&logo=symfony)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 
