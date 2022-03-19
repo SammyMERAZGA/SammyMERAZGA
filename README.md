@@ -65,6 +65,8 @@ I'm a passionate learner who's always ready to learn and work through technologi
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![Sublime](https://img.shields.io/badge/-sublimetext-05122A?style=flat&logo=sublimetext)&nbsp;
 
+<div align="center">
+
 ### :signal_strength: My Github Stats
 
 ![Sammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammyMERAZGA&show_icons=true&theme=dracula)
@@ -83,4 +85,6 @@ I'm a passionate learner who's always ready to learn and work through technologi
 <a href="https://fr.linkedin.com/in/sammy-merazga"><img src="https://img.shields.io/badge/-sammyMERAZGA-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sammy.merazga@gmail.com"><img src="https://img.shields.io/badge/-sammy.merazga@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+  
+</div>
 
