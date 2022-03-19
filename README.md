@@ -2,7 +2,7 @@
 
 <div align="center">
   
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: About me
 
 <p align="center">I'm a 3rd year student pursuing an engineering degree at G4 institute :classical_building: that leads to an IT project manager title :mortar_board:. I am pursuing my study in alternation with Tempo One :city_sunset:.</p>
 
