@@ -106,7 +106,7 @@
 ## Let's connect ? 🤝
 <br />
   
- &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://fr.linkedin.com/in/sammy-merazga) &nbsp; <a href="mailto:sammy.merazga@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+ &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://fr.linkedin.com/in/sammy-merazga) &nbsp; <a href="mailto:sammy.merazga@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp; [<img src="https://img.icons8.com/color/48/000000/youtube.png" width="3.5%"/>](https://www.youtube.com/channel/UCjbjT5fKBuZe1m68QeijoJg)
   
 </div>
   
