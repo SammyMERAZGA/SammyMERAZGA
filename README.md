@@ -98,13 +98,15 @@
 ### :trophy: Github Profile Trophy
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SammyMERAZGA&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SammyMERAZGA&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)]
  
 ## Let's connect ? 🤝
 <br />
 
 <a href="https://fr.linkedin.com/in/sammy-merazga"><img src="https://img.shields.io/badge/-sammyMERAZGA-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sammy.merazga@gmail.com"><img src="https://img.shields.io/badge/-sammy.merazga@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  
+ &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://fr.linkedin.com/in/sammy-merazga) &nbsp; <a href="mailto:sammy.merazga@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
 </div>
 
