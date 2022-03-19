@@ -6,14 +6,15 @@ I'm a passionate learner who's always ready to learn and work through technologi
 
 ![Snake animation](https://user-images.githubusercontent.com/78353572/159122397-16cb4796-aca5-4899-bb82-c43efe56659a.svg)
 
-<p align="center">
+<div align="center">
 
 ### Favorites Technologies 🥰
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-</p>
+
+</div>
 
 ### Languages & Tools 🛠
 
