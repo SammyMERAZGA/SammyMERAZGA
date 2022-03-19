@@ -43,7 +43,7 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=Node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)&nbsp;
 
-### Database
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma)&nbsp;
@@ -98,7 +98,7 @@
 ### :trophy: Github Profile Trophy
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SammyMERAZGA&theme=dracula)](https://github.com/SammyMERAZGA/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SammyMERAZGA&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
  
 ## Let's connect ? 🤝
 <br />
