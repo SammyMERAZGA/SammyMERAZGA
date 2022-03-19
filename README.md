@@ -71,15 +71,23 @@ I'm a passionate learner who's always ready to learn and work through technologi
 
 ![Sammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammyMERAZGA&show_icons=true&theme=dracula)
 
+<br />
+  
 ### :computer: Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammyMERAZGA&layout=compact&theme=dracula)](https://github.com/SammyMERAZGA/github-readme-stats)
+  
+<br />
 
 ### :trophy: Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SammyMERAZGA&theme=dracula)](https://github.com/SammyMERAZGA/github-profile-trophy)
 
+<br />
+ 
 ### Let's connect ? 🤝
+  
+<br />
 
 <a href="https://fr.linkedin.com/in/sammy-merazga"><img src="https://img.shields.io/badge/-sammyMERAZGA-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sammy.merazga@gmail.com"><img src="https://img.shields.io/badge/-sammy.merazga@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
