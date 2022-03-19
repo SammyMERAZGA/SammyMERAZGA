@@ -28,34 +28,33 @@
 
 </div>
 
-<br/><br/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/78353572/159122594-ec57b8cf-d7b0-4fcb-92c7-fec40c50a7c4.gif" width="500" height="350" />
 
-![TypeScript](https://img.shields.io/badge/TypeScript-Code-informational?style=flat&logo=typescript&logoColor=white&color=blue)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-Code-informational?style=flat&logo=html5&logoColor=white&color=blue)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-Code-informational?style=flat&logo=css3&logoColor=white&color=blue)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)&nbsp;
 
-![VueJS](https://img.shields.io/badge/VueJS-Framework%20Front-informational?style=flat&logo=vue.js&logoColor=white&color=green)&nbsp;
-![Vuetify](https://img.shields.io/badge/Vuetify-Framework%20UI-informational?style=flat&logo=vuetify&logoColor=white&color=green)&nbsp;
-![NodeJS](https://img.shields.io/badge/NodeJS-JS%20Runtime-informational?style=flat&logo=node.js&logoColor=white&color=green)&nbsp;
-![Express](https://img.shields.io/badge/Express-Framework%20Back-informational?style=flat&logo=express&logoColor=white&color=green)&nbsp;
+![VueJS](https://img.shields.io/badge/-VueJS-000?&logo=Vue.js)&nbsp;
+![Vuetify](https://img.shields.io/badge/-Vuetify-000?&logo=Vuetify)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=Node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)&nbsp;
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SGBD-informational?style=flat&logo=postgresql&logoColor=white&color=orange)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-ORM-informational?style=flat&logo=prisma&logoColor=white&color=orange)&nbsp;
-![DataGrip](https://img.shields.io/badge/DataGrip-SGBD-informational?style=flat&logo=DataGrip&logoColor=white&color=orange)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma)&nbsp;
+![DataGrip](https://img.shields.io/badge/-DataGrip-000?&logo=datagrip)&nbsp;
 
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-IDE-informational?style=flat&logo=visualstudiocode&logoColor=white&color=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-API%20Platform-informational?style=flat&logo=postman&logoColor=white&color=white)&nbsp;
-![Yarn](https://img.shields.io/badge/Yarn-PM-informational?style=flat&logo=yarn&logoColor=white&color=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)&nbsp;
+![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=yarn)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-Github-000?&logo=github)&nbsp;
 
-![MacOS](https://img.shields.io/badge/Mac-OS-informational?style=flat&logo=apple&logoColor=white&color=white)&nbsp;
+![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=apple)&nbsp;
 
 ### Other Languages & Tools 🛠
 
-![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)&nbsp;
 ![React](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)&nbsp;
 ![MUI](https://img.shields.io/badge/-mui-05122A?style=flat&logo=mui)&nbsp;
 
