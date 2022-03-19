@@ -1,5 +1,7 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sammy MERAZGA
 
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+
 <p align="center">I'm a 3rd year student pursuing an engineering degree at G4 institute :classical_building: that leads to an IT project manager title :mortar_board:. I am pursuing my study in alternation with Tempo One :city_sunset:.</p>
 
 <p align="center">I'm a passionate learner who's always ready to learn and work through technologies :bulb:. I love exploring new technologies and using them to solve real-world problems :sparkles:. I'm deep into Web :spider_web: Development.
@@ -9,7 +11,7 @@
 
 <div align="center">
 
-### Favorites Technologies 🥰
+## Favorite Technologies 🥰
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
