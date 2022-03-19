@@ -98,7 +98,7 @@
 ### :trophy: Github Profile Trophy
 <br />
 
-[trophy](https://github-profile-trophy.vercel.app/?username=SammyMERAZGA&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=SammyMERAZGA&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
  
 ## Let's connect ? 🤝
 <br />
