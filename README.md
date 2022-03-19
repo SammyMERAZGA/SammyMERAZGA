@@ -1,5 +1,7 @@
 ### <div align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sammy MERAZGA </div> <br/>
 
+<img width="812" alt="smy" src="https://user-images.githubusercontent.com/78353572/159125059-1abbb9e7-9862-4a3c-8488-5b8ec20f2f68.png">
+
 <div align="center">
   
 ## :book: About me
