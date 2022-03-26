@@ -51,7 +51,7 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma)&nbsp;
 ![DataGrip](https://img.shields.io/badge/-DataGrip-000?&logo=datagrip)&nbsp;
 
-### Tools 👨🏻‍�👨🏻‍💻
+### Tools 🎒
 
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)&nbsp;
@@ -72,7 +72,7 @@
 ![Jira Software](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware)&nbsp;
 ![Microsoft Project](https://img.shields.io/badge/-Microsoft%20Project-000?&logo=Project)&nbsp;
 
-### Other Languages & Tools (I can use but not my favorites)
+### Other Languages & Tools (I can use but not my favorites) 🙂
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)&nbsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)&nbsp;
