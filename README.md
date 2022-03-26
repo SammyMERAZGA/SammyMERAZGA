@@ -51,7 +51,7 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma)&nbsp;
 ![DataGrip](https://img.shields.io/badge/-DataGrip-000?&logo=datagrip)&nbsp;
 
-### Others
+### Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)&nbsp;
@@ -61,6 +61,16 @@
 ![GitHub](https://img.shields.io/badge/-Github-000?&logo=github)&nbsp;
 
 ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=apple)&nbsp;
+
+### Other than development
+
+![Material Design](https://img.shields.io/badge/-Material%20Design-000?&logo=materialdesign)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)&nbsp;
+
+![Trello](https://img.shields.io/badge/-Trello-000?&logo=trello)&nbsp;
+![Jira Software](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware)&nbsp;
+![Microsoft Project](https://img.shields.io/badge/-Microsoft%20Project-000?&logo=Project)&nbsp;
 
 ### Other Languages & Tools (I can use but not my favorites)
 
