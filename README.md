@@ -68,6 +68,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)&nbsp;
 
+![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-000?&logo=trello)&nbsp;
 ![Jira Software](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware)&nbsp;
 ![Microsoft Project](https://img.shields.io/badge/-Microsoft%20Project-000?&logo=Project)&nbsp;
