@@ -60,6 +60,8 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-Github-000?&logo=github)&nbsp;
 
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)&nbsp;
+
 ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=apple)&nbsp;
 
 ### Other than development 🗓
@@ -78,6 +80,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)&nbsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)&nbsp;
 ![MUI](https://img.shields.io/badge/-MUI-000?&logo=mui)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)&nbsp;
 
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)&nbsp;
 ![MAMP](https://img.shields.io/badge/-MAMP-000?&logo=MAMP)&nbsp;
@@ -89,6 +92,7 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)&nbsp;
 ![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-000?&logo=phpmyadmin)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?&logo=microsoftsqlserver)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)&nbsp;
 
