@@ -11,7 +11,7 @@
 <p align="center">I'm a passionate learner who's always ready to learn and work through technologies :bulb:. I love exploring new technologies and using them to solve real-world problems :sparkles:. I'm deep into Web :spider_web: Development.
 </p>
 
-![Snake animation](https://user-images.githubusercontent.com/78353572/159122397-16cb4796-aca5-4899-bb82-c43efe56659a.svg)
+![Snake animation](https://user-images.githubusercontent.com/78353572/169007633-272dc318-6e18-4188-859e-ebb9537c1920.svg)
 
 <div align="center">
 
