@@ -79,16 +79,13 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)&nbsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)&nbsp;
-![MUI](https://img.shields.io/badge/-MUI-000?&logo=mui)&nbsp;
-![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)&nbsp;
+![Remix.run](https://img.shields.io/badge/-Remix-000?&logo=remix)&nbsp;
+![ChakraUI](https://img.shields.io/badge/-ChakraUI-000?&logo=chakraui)&nbsp;
 
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)&nbsp;
 ![MAMP](https://img.shields.io/badge/-MAMP-000?&logo=MAMP)&nbsp;
 ![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)&nbsp;
-
-![Java](https://img.shields.io/badge/-Java-000?&logo=java)&nbsp;
-![Quarkus](https://img.shields.io/badge/-Quarkus-000?&logo=quarkus)&nbsp;
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)&nbsp;
 ![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-000?&logo=phpmyadmin)&nbsp;
