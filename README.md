@@ -121,5 +121,5 @@
   
 ---
 
-![Snake animation](https://user-images.githubusercontent.com/78353572/186383844-897f92f0-9fb3-4c7a-a4a6-5f4513c43961.svg)!
+![Snake animation](https://user-images.githubusercontent.com/78353572/186383844-897f92f0-9fb3-4c7a-a4a6-5f4513c43961.svg)
 
