@@ -46,6 +46,8 @@
 
 ![VueJS](https://img.shields.io/badge/-VueJS-000?&logo=Vue.js)&nbsp;
 ![Vuetify](https://img.shields.io/badge/-Vuetify-000?&logo=Vuetify)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=Node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)&nbsp;
 
@@ -74,6 +76,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)&nbsp;
 
+![ClickUp](https://img.shields.io/badge/-ClickUp-000?&logo=ClickUp)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-000?&logo=trello)&nbsp;
 ![Jira Software](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware)&nbsp;
@@ -85,6 +88,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)&nbsp;
 ![Remix.run](https://img.shields.io/badge/-Remix-000?&logo=remix)&nbsp;
 ![ChakraUI](https://img.shields.io/badge/-ChakraUI-000?&logo=chakraui)&nbsp;
+![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)&nbsp;
 
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)&nbsp;
 ![MAMP](https://img.shields.io/badge/-MAMP-000?&logo=MAMP)&nbsp;
@@ -98,6 +102,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)&nbsp;
 
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)&nbsp;
+![Bun.js](https://img.shields.io/badge/-Bun.js-000?&logo=Bun)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)&nbsp;
 
