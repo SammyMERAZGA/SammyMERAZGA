@@ -46,10 +46,10 @@
 
 ![VueJS](https://img.shields.io/badge/-VueJS-000?&logo=Vue.js)&nbsp;
 ![Vuetify](https://img.shields.io/badge/-Vuetify-000?&logo=Vuetify)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)&nbsp;
-![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=Node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)&nbsp;
 
 ### Databases 🐳
 
