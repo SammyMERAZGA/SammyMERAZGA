@@ -47,8 +47,6 @@
 ![VueJS](https://img.shields.io/badge/-VueJS-000?&logo=Vue.js)&nbsp;
 ![Vuetify](https://img.shields.io/badge/-Vuetify-000?&logo=Vuetify)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=Node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-000?&logo=express)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)&nbsp;
 
 ### Databases 🐳
@@ -86,9 +84,10 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)&nbsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)&nbsp;
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)&nbsp;
 ![Remix.run](https://img.shields.io/badge/-Remix-000?&logo=remix)&nbsp;
 ![ChakraUI](https://img.shields.io/badge/-ChakraUI-000?&logo=chakraui)&nbsp;
-![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)&nbsp;
 
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)&nbsp;
 ![MAMP](https://img.shields.io/badge/-MAMP-000?&logo=MAMP)&nbsp;
