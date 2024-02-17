@@ -8,7 +8,7 @@
 
 </div>
 
-* I'm a 3rd year student pursuing an engineering degree at [G4 Institute 🏛️](https://www.institut-g4.fr) that leads to an IT project manager title 🎓.
+* I'm a student pursuing an engineering degree at [G4 Institute 🏛️](https://www.institut-g4.fr) that leads to an IT project manager title 🎓.
 
 * I am pursuing my study in alternation with [Tempo One 🌆](https://www.tempo-one.com).
 
