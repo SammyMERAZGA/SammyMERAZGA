@@ -70,7 +70,7 @@
 
 ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=apple)&nbsp;
 
-### Autre que le développement 🗓
+### Autres que le développement 🗓
 
 ![Material Design](https://img.shields.io/badge/-Material%20Design-000?&logo=materialdesign)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)&nbsp;
@@ -115,7 +115,7 @@
 ![Sammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammyMERAZGA&show_icons=true&theme=dracula)
 
   
-### :computer: Langages
+### :computer: Langages les plus utilisés
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammyMERAZGA&layout=compact&theme=dracula)](https://github.com/SammyMERAZGA/github-readme-stats)
