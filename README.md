@@ -8,11 +8,13 @@
 
 </div>
 
-* I'm a student pursuing an engineering degree at [G4 Institute 🏛️](https://www.institut-g4.fr) that leads to an IT project manager title 🎓.
+* 🎓 Diplômé d'un bac +5 en tant que chef de projet informatique à [l'Institut G4 🏛️](https://www.institut-g4.fr).
 
-* I am pursuing my study in alternation with [Tempo One 🌆](https://www.tempo-one.com).
+* 🚀 Ingénieur d'études en informatique et logistique (CDI) avec l'entreprise [Tempo One 🌆](https://www.tempo-one.com).
+  
+* ⚡️ Développeur full-stack | Expert Vue.js x NestJS 🪐 
 
-* I'm a passionate learner who's always ready to learn and work through technologies 💡. I love exploring new technologies and using them to solve real-world problems ✨. I'm deep into Web 🕸️ Development.
+* Passionné par le développement web, je suis toujours prêt à découvrir et travailler avec de nouvelles technologies 💡. J’adore explorer les nouveautés du web et les utiliser pour résoudre des problèmes concrets ✨.
 
 ---
 
