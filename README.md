@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="812" alt="smy" src="https://user-images.githubusercontent.com/78353572/159125059-1abbb9e7-9862-4a3c-8488-5b8ec20f2f68.png">
+<img width="812" alt="smy" src="<img width="915" alt="Banner SM" src="https://github.com/user-attachments/assets/e3791fe3-239e-4631-9ca8-b0f6c5c71a65">
   
 ## :book: À propos
 
