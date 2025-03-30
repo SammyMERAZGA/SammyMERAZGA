@@ -1,8 +1,6 @@
 ### <div align="center"> Hello Everyone 👋 </div> <br/>
 
 <div align="center">
-
-<img width="915" alt="Banner SM" src="https://github.com/user-attachments/assets/e3791fe3-239e-4631-9ca8-b0f6c5c71a65">
   
 ## :book: À propos
 
