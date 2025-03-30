@@ -23,9 +23,6 @@
   <a href="https://www.youtube.com/channel/UCjbjT5fKBuZe1m68QeijoJg">
 		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 	</a>
-  <a href="mailto:sammy.merazga@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" />
-	</a>
 </p>
 
 <div align="center">
