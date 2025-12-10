@@ -102,19 +102,26 @@
 
 <div align="center">
 
-## :signal_strength: GitHub Stats
+## :signal_strength: Statistiques Github
+
 <br />
+
 
 ![Sammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammyMERAZGA&show_icons=true&theme=dracula)
-
   
-### :computer: Top Languages
+
+### :computer: Langages les plus utilisés
+
 <br />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammyMERAZGA&layout=compact&theme=dracula)](https://github.com/SammyMERAZGA/github-readme-stats)
 
-### :trophy: GitHub Trophies
+
+### :trophy: Trophée Github
+
 <br />
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=SammyMERAZGA&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
