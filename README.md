@@ -2,38 +2,36 @@
 
 <div align="center">
   
-## :book: À propos
+## :book: About Me
 
 </div>
 
-* 🎓 Diplômé d'un bac +5 en tant que chef de projet informatique à [l'Institut G4 🏛️](https://www.institut-g4.fr).
-
-* 🚀 Ingénieur d'études en informatique et logistique (CDI) avec l'entreprise [Tempo One 🌆](https://www.tempo-one.com).
+* 🎓 Master's degree graduate in IT Project Management at [Institut G4 🏛️](https://www.institut-g4.fr).
   
-* ⚡️ Développeur full-stack | Expert Vue.js x NestJS 🪐 
+* ⚡️ Full-stack Developer | Vue.js x NestJS Expert 🪐 
 
-* Passionné par le développement web, je suis toujours prêt à découvrir et travailler avec de nouvelles technologies 💡. J’adore explorer les nouveautés du web et les utiliser pour résoudre des problèmes concrets ✨.
+* Passionate about web development, I am always ready to discover and work with new technologies 💡. I love exploring the latest web trends and using them to solve concrete problems ✨.
 
 ---
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/sammy-merazga/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/sammy-merazga/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/channel/UCjbjT5fKBuZe1m68QeijoJg">
-		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-	</a>
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
 </p>
 
 <div align="center">
 
-## 🛠 Technologies & Langages 
+## 🛠 Technologies & Languages 
 
 </div>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/78353572/159122594-ec57b8cf-d7b0-4fcb-92c7-fec40c50a7c4.gif" width="500" height="350" />
 
-### Langages ⌨️
+### Languages ⌨️
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)&nbsp;
@@ -46,13 +44,13 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=Node.js)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)&nbsp;
 
-### Base de données 🐳
+### Databases 🐳
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma)&nbsp;
 ![DataGrip](https://img.shields.io/badge/-DataGrip-000?&logo=datagrip)&nbsp;
 
-### Outils 🎒
+### Tools 🎒
 
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)&nbsp;
@@ -65,7 +63,7 @@
 
 ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=apple)&nbsp;
 
-### Autres que le développement 🗓
+### Design & Productivity 🗓
 
 ![Material Design](https://img.shields.io/badge/-Material%20Design-000?&logo=materialdesign)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)&nbsp;
@@ -77,7 +75,7 @@
 ![Jira Software](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware)&nbsp;
 ![Microsoft Project](https://img.shields.io/badge/-Microsoft%20Project-000?&logo=Project)&nbsp;
 
-### Autres technologies et langages 🙂
+### Other Technologies & Languages 🙂
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)&nbsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)&nbsp;
@@ -104,18 +102,18 @@
 
 <div align="center">
 
-## :signal_strength: Statistiques Github
+## :signal_strength: GitHub Stats
 <br />
 
 ![Sammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammyMERAZGA&show_icons=true&theme=dracula)
 
   
-### :computer: Langages les plus utilisés
+### :computer: Top Languages
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammyMERAZGA&layout=compact&theme=dracula)](https://github.com/SammyMERAZGA/github-readme-stats)
 
-### :trophy: Trophée Github
+### :trophy: GitHub Trophies
 <br />
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=SammyMERAZGA&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
@@ -123,4 +121,3 @@
 ---
 
 ![Snake animation](https://user-images.githubusercontent.com/78353572/186383844-897f92f0-9fb3-4c7a-a4a6-5f4513c43961.svg)
-
