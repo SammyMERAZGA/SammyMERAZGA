@@ -5,10 +5,8 @@
 ## :book: About Me
 
 </div>
-
-* 🎓 Master's degree graduate in IT Project Management at [Institut G4 🏛️](https://www.institut-g4.fr).
   
-* ⚡️ Full-stack Developer | Vue.js x NestJS Expert 🪐 
+* ⚡️ Full-stack Developer | TypeScript x Vue.js x NestJS Expert 🪐 
 
 * Passionate about web development, I am always ready to discover and work with new technologies 💡. I love exploring the latest web trends and using them to solve concrete problems ✨.
 
